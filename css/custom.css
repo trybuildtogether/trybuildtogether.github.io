@@ -1,0 +1,13 @@
+img.hero-logo {
+  max-width: 180px;
+}
+
+footer .terms {
+  color: #6e6e6e;
+}
+
+footer .terms a {
+  font-size: 0.8rem;
+  padding: 0 2rem;
+  color: #6e6e6e;
+}
